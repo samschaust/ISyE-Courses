@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css" ?>
+<!DOCTYPE catalogue SYSTEM "Details.dtd">
+
+<inventory>
+    <course subject="math">
+      <title>CSE Calculus I</title>
+      <id>MATH 1371</id>
+      <description>Differentiation of single-variable functions, basics of integration of single-variable functions. Applications: max-min, related rates, area, curve-sketching. Use of calculator, cooperative learning.</description>
+      <prerequisites>CSE or pre-bioprod concurrent registration is required (or allowed) in biosys engn (PRE), background in [precalculus, geometry, visualization of functions/graphs], instr consent; familiarity with graphing calculators recommende</prerequisites>
+      <semester>Fall</semester>
+      <units>4 units</units>
+      <format>In person</format>
+      <instructor name="class 1">Zhilin Luo</instructor>
+      <instructor name="class 2">Jie Min</instructor>
+      <instructor name="class 3">Wuzhe Xu</instructor>
+      <location room="class 1">Tate Hall 120</location>
+      <location room="class 2">Appleby Hall 302</location>
+      <location room="class 2">Vincent Hall 2</location>
+      <time class="class 1">Tuesday, 9:05AM to 9:55AM and Thursday, 9:05AM to 11AM</time>
+      <time class="class 1">Tuesday, 11:15AM to 12:05PM and Thursday, 11:15AM to 1:10PM</time>
+      <start>9/3/2019</start>
+      <end>12/11/2019</end>
+    </course>
+
+    <course subject="physics">
+      <title>Introductory Physics for Science and Engineering I</title>
+      <id>PHYS 1301W</id>
+      <description>Use of fundamental principles to solve quantitative problems. Motion, forces, conservation principles, structure of matter. Applications to mechanical systems.</description>
+      <prerequisites>concurrent registration is required (or allowed) in Math 1271 or concurrent registration is required (or allowed) in Math 1371 or concurrent registration is required (or allowed) in Math 1571</prerequisites>
+      <semester>Fall</semester>
+      <units>4 units</units>
+      <format>In Person</format>
+      <instructor name="class 1">Lis Stolik Valor</instructor>
+      <instructor name="class 2">Elliot Bell</instructor>
+      <instructor name="class 3">Yu Xu</instructor>
+      <location room="class 1">Tate Hall B63</location>
+      <location room="class 2">Tate Hall B26</location>
+      <location room="class 3">Tate Hall B26</location>
+      <time class="class 1">Tuesday, 9:05AM to 11:00AM and Thursday, 8:00AM to 8:50AM</time>
+      <time class="class 2">Tuesday, 11:15AM to 1:10PM and Thursday, 8:00AM to 8:50AM</time>
+      <time class="class 3">Tuesday, 1:25PM to 3:20PM and Thursday, 8:00AM to 8:50AM</time>
+      <start>9/3/2019</start>
+      <end>12/11/2019</end>
+    </course>
+
+    <course subject="writing">
+      <title>University Writing</title>
+      <id>WRIT 1301</id>
+      <description>Drafting, revising, editing. Academic genres. Critical reading, rhetorical analysis for principles of audience, purpose, and argumentative strategies. Emphasizes electronic/print library. Critical analysis, annotated bibliography, research paper.</description>
+      <prerequisites>Placement in Writ 1301</prerequisites>
+      <semester>Fall</semester>
+      <units>4 units</units>
+      <format>In Person</format>
+      <instructor name="class 1">Sarah Selz</instructor>
+      <instructor name="class 2">Sarah Selz</instructor>
+      <instructor name="class 3">Nicole Montanta</instructor>
+      <location room="class 1">Vincent Hall 301</location>
+      <location room="class 2">Vincent Hall 364</location>
+      <location room="class 3">Vruininks Hall 119</location>
+      <time class="class 1">Monday, Tuesday, Thursday, Friday, 9:05AM to 9:55AM</time>
+      <time class="class 2">Monday, Tuesday, Thursday, Friday, 10:10AM to 11:AM</time>
+      <time class="class 3">Monday, Tuesday, Thursday, Friday, 1:25PM to 3:20PM</time>
+      <start>9/3/2019</start>
+      <end>12/11/2019</end>
+    </course>
+
+    <course subject="math">
+      <title>Calculus II</title>
+      <id>MATH 1372</id>
+      <description>Techniques of integration. Calculus involving transcendental functions, polar coordinates, Taylor polynomials, vectors/curves in space, cylindrical/spherical coordinates. Use of calculators, cooperative learning.</description>
+      <prerequisites>Grade of at least C- in [1371 or equiv], CSE or pre-Bioprod/Biosys Engr</prerequisites>
+      <semester>Spring</semester>
+      <units>4 units</units>
+      <format>In Person</format>
+      <instructor name="class 1">Olivia Cannon</instructor>
+      <instructor name="class 2">Wei Wang</instructor>
+      <instructor name="class 3">Olivia Cannon</instructor>
+      <location room="class 1">Tate Hall 120</location>
+      <location room="class 2">Lind Hall 229</location>
+      <location room="class 3">Vincent Hall 20</location>
+      <time class="class 1">Tuesday, 8:00AM to 8:50AM and Thursday, 8:00AM to 9:55AM</time>
+      <time class="class 2">Tuesday, 9:05AM to 9:55AM and Thursday, 8:00AM to 9:55AM</time>
+      <time class="class 3">Tuesday, 10:10AM to 11:00AM and Thursday, 11:15AM to 1:10PM</time>
+      <start>1/21/2020</start>
+      <end>5/4/2020</end>
+    </course>
+
+    <course subject="physics">
+      <title>Introductory Physics for Science and Engineering II</title>
+      <id>PHYS 1302W</id>
+      <description>Use of fundamental principles to solve quantitative problems. Motion, forces, conservation principles, fields, structure of matter. Applications to electromagnetic phenomena.</description>
+      <prerequisites>1301W, concurrent registration is required (or allowed) in Math 1272 or Math 1372 or Math 1572</prerequisites>
+      <semester>Spring</semester>
+      <units>4 units</units>
+      <format>in Person</format>
+      <instructor name="class 1">Paul Haines</instructor>
+      <instructor name="class 2">Marvin Marshak</instructor>
+      <instructor name="class 3">Clement Pryke</instructor>
+      <location room="class 1">Tate Hall B50</location>
+      <location room="class 2">Tate Hall B50</location>
+      <location room="class 3">Tate Hall B50</location>
+      <time class="class 1">Monday, Tuesday, Wednesday, Friday, 8:00AM to 8:50AM</time>
+      <time class="class 2">Monday, Tuesday, Wednesday, Friday, 10:10AM to 11:00AM</time>
+      <time class="class 3">Monday, Tuesday, Wednesday, Friday, 11:15AM to 12:05AM</time>
+      <start>1/21/2020</start>
+      <end>5/4/2020</end>
+    </course>
+
+    <course subject="chemistry">
+      <title>Chemical Principles I</title>
+      <id>CHEM 1061</id>
+      <description>Atomic theory, periodic properties of elements. Thermochemistry, reaction stoichiometry. Behavior of gases, liquids, and solids. Molecular/ionic structure/bonding. Organic chemistry and polymers. energy sources, environmental issues related to energy use.</description>
+      <prerequisites>Grade of at least C- in [1011 or 1015] or [passing placement exam, concurrent registration is required (or allowed) in 1065]; intended for science or engineering majors; concurrent registration is required (or allowed) in 1065; registration for 1065 must precede registration for 1061</prerequisites>
+      <semester>Spring</semester>
+      <units>3 units</units>
+      <format>In Person</format>
+      <instructor name="class 1">Debra Salmon</instructor>
+      <instructor name="class 2">Doreen Leopold</instructor>
+      <instructor name="class 3">Doreen Leopold</instructor>
+      <location room="class 1">Smith Hall 100</location>
+      <location room="class 2">Smith Hall 100</location>
+      <location room="class 3">Smith Hall 100</location>
+      <time class="class 1">Monday, Wednesday, Friday, 8:00AM to 8:50AM</time>
+      <time class="class 2">Monday, Wednesday, Friday, 12:20PM to 1:10PM</time>
+      <time class="class 3">Monday, Wednesday, Friday, 2:30PM to 3:20PM</time>
+      <start>1/21/2020</start>
+      <end>5/4/2020</end>
+    </course>
+
+    <course subject="chemistry">
+      <title>Chemical Principles I Laboratory</title>
+      <id>CHEM 1065</id>
+      <description>Basic laboratory skills while investigating physical and chemical phenomena closely linked to lecture material. Experimental design, data collection and treatment, discussion of errors, and proper treatment of hazardous wastes.</description>
+      <prerequisites>concurrent registration is required (or allowed) in 1061</prerequisites>
+      <semester>Spring</semester>
+      <units>1 unit</units>
+      <format>In Person</format>
+      <instructor name="class 1">Michelle Driessen</instructor>
+      <instructor name="class 2">Michelle Driessen</instructor>
+      <instructor name="class 3">Michelle Driessen</instructor>
+      <location room="class 1">Smith Hall 110</location>
+      <location room="class 2">Smith Hall 110</location>
+      <location room="class 3">Smith Hall 110</location>
+      <time class="class 1">Monday, 11:15AM to 2:05PM</time>
+      <time class="class 2">Monday, 2:30PM to 5:20PM</time>
+      <time class="class 3">Tuesday, 8:00AM to 10:50AM</time>
+      <start>1/21/2020</start>
+      <end>5/4/2020</end>
+    </course>
+
+    <course subject="math">
+      <title>CSE Multivariable Calculus and Vector Analysis</title>
+      <id>2374</id>
+      <description>Derivative as linear map. Differential/integral calculus of functions of several variables, including change of coordinates using Jacobians. Line/surface integrals. Gauss, Green, Stokes theorems. Use of computer technology.</description>
+      <prerequisites>[1272 or 1282 or 1372 or 1572] w/grade of at least C-, CSE or pre-Bioprod/Biosys Engr</prerequisites>
+      <semester>Fall</semester>
+      <units>4 units</units>
+      <format>In Person</format>
+      <instructor name="class 1">Paul Carter</instructor>
+      <instructor name="class 2">Cheng Chen</instructor>
+      <instructor name="class 3">Peihang Wu</instructor>
+      <location room="class 1">Fraser Hall 101</location>
+      <location room="class 2">Vincent Hall 2</location>
+      <location room="class 3">Vincent Hall 20</location>
+      <time class="class 1">Wednesday, Friday 9:05AM to 9:55AM</time>
+      <time class="class 2">Tuesday, Thursday 8:00AM to 8:50AM</time>
+      <time class="class 3">Tuesday, Thursday 9:05AM to 9:55AM</time>
+      <start>9/3/2019</start>
+      <end>12/11/2019</end>
+    </course>
+
+    <course subject="industrial engineering">
+      <title>Foundations of Industrial and Systems Engineering</title>
+      <id>IE 1101</id>
+      <description>History/development of industrial/systems engineering, operations planning, quality control, human factors, resource management, financial engineering, facility location/layout, optimization, probabilistic/stochastic models, simulation, project management.</description>
+      <prerequisites>[MATH 1372 or equiv], CSE student</prerequisites>
+      <semester>Fall</semester>
+      <units>4 units</units>
+      <format>In Person</format>
+      <instructor name="class 1">Darin England</instructor>
+      <location room="class 1">Smith Hall 100</location>
+      <time class="class 1">Tuesday, Thursday, 2:30PM to 4:25PM</time>
+      <start>9/3/2019</start>
+      <end>12/11/2019</end>
+    </course>
+
+    <course subject="industrial engineering">
+      <title>Engineering Economics</title>
+      <id>IE 2021</id>
+      <description>Cost/design process, cost estimation models, cash flow analysis, interest rate models, time value of money, evaluation of projects, internal rate of return, depreciation/income taxes, price changes/inflation, capital budgeting, decision making under uncertainty.</description>
+      <prerequisites>[MATH 1372 or equiv], CSE student</prerequisites>
+      <semester>Fall</semester>
+      <units>4 units</units>
+      <format>In Person</format>
+      <instructor name="class 1">Lisa Miller</instructor>
+      <location room="class 1">Smith Hall 331</location>
+      <time class="class 1">Monday, Wednesday, 1:25PM to 3:20PM</time>
+      <start>9/3/2019</start>
+      <end>12/11/2019</end>
+    </course>
+
+    <course subject="computer science">
+      <title>Introduction to Computing and Programming Concepts</title>
+      <id>CSCI 1133</id>
+      <description>Fundamental programming concepts using Python language. Problem solving skills, recursion, object-oriented programming. Algorithm development techniques. Use of abstractions/modularity. Data structures/abstract data types. Develop programs to solve real-world problems.</description>
+      <prerequisites>concurrent registration is required (or allowed) in MATH 1271 or concurrent registration is required (or allowed) in MATH 1371 or concurrent registration is required (or allowed) in MATH 1571H or instr consent</prerequisites>
+      <semester>Fall</semester>
+      <units>4 units</units>
+      <format>In Person</format>
+      <instructor name="class 1">Nathan Taylor</instructor>
+      <instructor name="class 2">Nathan Taylor</instructor>
+      <instructor name="class 3">Lana Yarosh</instructor>
+      <location room="class 1">Molecular Cellular Biology 3-120</location>
+      <location room="class 2">Keller Hall 3-120</location>
+      <location room="class 3">Fraser Hall 102</location>
+      <time class="class 1">Monday, Wednesday, Friday, 10:10AM to 11:00AM</time>
+      <time class="class 2">Wednesday, 6:30PM to 9:00PM</time>
+      <time class="class 3">Monday, Wednesday, Friday, 10:10AM to 11:00AM</time>
+      <start>9/3/2019</start>
+      <end>12/11/2019</end>
+    </course>
+
+    <course subject="math">
+      <title>CSE Linear Algebra and Differential Equations</title>
+      <id>MATH 2373</id>
+      <description>Linear algebra: basis, dimension, eigenvalues/eigenvectors. Differential equations: linear equations/systems, phase space, forcing/resonance, qualitative/numerical analysis of nonlinear systems, Laplace transforms. Use of computer technology.</description>
+      <prerequisites>[1272 or 1282 or 1372 or 1572] w/grade of at least C-, CSE or pre-Bio Prod/Biosys Engr</prerequisites>
+      <semester>Spring</semester>
+      <units>4 units</units>
+      <format>In Person</format>
+      <instructor name="class 1">Terrence Stanley</instructor>
+      <instructor name="class 2">Greg Anderson</instructor>
+      <instructor name="class 3">Greg Anderson</instructor>
+      <location room="class 1">Anderson Hall 370</location>
+      <location room="class 2">Tate Hall 101</location>
+      <location room="class 3">Fraser Hall 102</location>
+      <time class="class 1">Monday, Wednesday, 9:05AM to 9:55AM</time>
+      <time class="class 2">Monday, Wednesday, 11:15AM to 12:05PM</time>
+      <time class="class 3">Monday, Wednesday, 2:30PM to 3:20PM</time>
+      <start>1/21/2020</start>
+      <end>5/4/2020</end>
+    </course>
+
+    <course subject="industrial engineering">
+      <title>Statistics, Quality, and Reliability</title>
+      <id>IE 3521</id>
+      <description>Random variables/probability distributions, statistical sampling/measurement, statistical inferencing, confidence intervals, hypothesis testing, single/multivariate regression, design of experiments, statistical quality control, quality management, reliability, maintainability.</description>
+      <prerequisites>MATH 1372 or equiv</prerequisites>
+      <semester>Spring</semester>
+      <units>4 units</units>
+      <format>In Person</format>
+      <instructor name="class 1">Lisa Miller</instructor>
+      <instructor name="class 2">Lisa Miller</instructor>
+      <location room="class 1">Keller Hall 3-230</location>
+      <location room="class 2">Smith Hall 331</location>
+      <time class="class 1">Tuesday, Thursday, 9:05AM to 11:00AM</time>
+      <time class="class 2">Tuesday, Thursday, 1:25PM to 3:20PM</time>
+      <start>1/21/2020</start>
+      <end>5/4/2020</end>
+    </course>
+
+    <course subject="economics">
+      <title>Principles of Micoeconomics</title>
+      <id>ECON 1101</id>
+      <description>Microeconomic behavior of consumers, firms, and markets in domestic and world economy. Demand and supply. Competition and monopoly. Distribution of income. Economic interdependencies in the global economy. Effects of global linkages on individual decisions.</description>
+      <prerequisites>knowledge of plane geometry and advanced algebra</prerequisites>
+      <semester>Spring</semester>
+      <units>4 units</units>
+      <format>In Person</format>
+      <instructor name="class 1">None Listed</instructor>
+      <instructor name="class 2">None Listed</instructor>
+      <instructor name="class 3">None Listed</instructor>
+      <location room="class 1">Wiley Hall 175</location>
+      <location room="class 2">Hanson Hall 1-108</location>
+      <location room="class 3">Blegen Hall 205</location>
+      <time class="class 1">Monday, Wednesday, Friday, 9:05AM to 9:55AM</time>
+      <time class="class 2">Monday, Wednesday, 4:00PM to 5:15PM</time>
+      <time class="class 3">Tuesday, 5:30PM to 8:00PM</time>
+      <start>1/21/2020</start>
+      <end>5/4/2020</end>
+    </course>
+
+    <course subject="industrial engineering">
+      <title>Optimization I</title>
+      <id>IE 3011</id>
+      <description>Optimization models, data/solutions, linear programming, simplex method, duality theory, sensitivity analysis, network optimization models, integer programming.</description>
+      <prerequisites>1101, MATH 2374, MATH 2373, Upper Division CSE</prerequisites>
+      <semester>Fall</semester>
+      <units>4 units</units>
+      <format>In Person</format>
+      <instructor name="class 1">Jean-Philippe Richard</instructor>
+      <location room="class 1">Keller Hall 3-230</location>
+      <time class="class 1">Monday, Wednesday, 10:10AM to 12:05PM</time>
+      <start>9/3/2019</start>
+      <end>12/11/2019</end>
+    </course>
+
+    <course subject="industrial engineering">
+      <title>Quality Engineering and Reliability</title>
+      <id>IE 3522</id>
+      <description>Quality engineering/management, economics of quality. Statistical process control, reliability, maintain ability, availability.</description>
+      <prerequisites>3521, MATH 2373, MATH 2374, ISyE major</prerequisites>
+      <semester>Spring</semester>
+      <units>4</units>
+      <format>In Person</format>
+      <instructor name="class 1">Yiling Zhang</instructor>
+      <location room="class 1">Keller Hall 3-230</location>
+      <time class="class 1">Monday, Wednesday, 1:25PM to 3:20PM</time>
+      <start>1/21/2020</start>
+      <end>5/4/2020</end>
+    </course>
+
+    <course subject="industrial engineering">
+      <title>Optimization II</title>
+      <id>IE 3012</id>
+      <description>Classifying optimization models. Modeling binary variables, branch and bound. Shortest path. Minimum spanning tree. Nonlinear programming, global and local optima, optimality conditions. Algebraic modeling languages and optimization solvers.</description>
+      <prerequisites>3011, ISyE major</prerequisites>
+      <semester>Spring</semester>
+      <units>4 units</units>
+      <format>In Person</format>
+      <instructor name="class 1">Darin England</instructor>
+      <location room="class 1">Bruininks Hall 412</location>
+      <time class="class 1">Tuesday, Thursday, 10:10AM to 12:05PM</time>
+      <start>1/21/2020</start>
+      <end>5/4/2020</end>
+    </course>
+
+    <course subject="industrial engineering">
+      <title>Stochastic Models</title>
+      <id>IE 4011</id>
+      <description>Models for describing/evaluating random systems. Formulating/analyzing stochastic models for business. Discrete-time/continuous-time Markov chains. Poisson processes. Markovian/non-Markovian queueing theory. Inventory management, manufacturing, reliability.</description>
+      <prerequisites>3521, MATH 2373, MATH 2374, ISyE major</prerequisites>
+      <semester>Spring</semester>
+      <units>4 units</units>
+      <format>In Person</format>
+      <instructor name="class 1">Krishnamurthy Iyer</instructor>
+      <location room="class 1">Keller Hall 3-230</location>
+      <time class="class 1">Monday, Wednesday, 9:05AM to 11:00AM</time>
+      <start>1/21/2020</start>
+      <end>5/4/2020</end>
+    </course>
+
+    <course subject="industrial engineering">
+      <title>Production and Inventory Control</title>
+      <id>IE 4551</id>
+      <description>Methods for managing production, inventory, supply chain operations. Demand forecasting, inventory control, production planning/scheduling, supply chain coordination, manufacturing flow analysis. Implications of emerging technologies, business practices, government regulations.</description>
+      <prerequisites>3011, 3521, ISyE major</prerequisites>
+      <semester>Spring</semester>
+      <units>4 units</units>
+      <format>In Person</format>
+      <instructor name="class 1">Zhaosong Lu</instructor>
+      <location room="class 1">Keller Hall 3-230</location>
+      <time class="class 1">Tuesday, Thursday, 1:25PM to 3:20PM</time>
+      <start>1/21/2020</start>
+      <end>5/4/2020</end>
+    </course>
+
+    <course subject="industrial engineering">
+      <title>Simulation</title>
+      <id>IE 3553</id>
+      <description>Introduction to techniques/tools of stochastic simulation. Applications from finance/insurance risk. Problems in inventory/queueing.</description>
+      <prerequisites>CSCI 1133, IE 3521, ISyE major</prerequisites>
+      <semester>Fall</semester>
+      <units>4 units</units>
+      <format>In Person</format>
+      <instructor name="class 1">Darin England</instructor>
+      <location room="class 1">Mechanical Engineering 18</location>
+      <time class="class 1">Monday, Wednesday, 1:25PM to 3:20PM</time>
+      <start>9/3/2019</start>
+      <end>12/11/2019</end>
+    </course>
+
+    <course subject="industrial engineering">
+      <title>Project Management</title>
+      <id>IE 4541W</id>
+      <description>Introduction to engineering project management. Analytical methods of selecting, organizing, budgeting, scheduling, and controlling projects. Risk management, team leadership, program management.</description>
+      <prerequisites>ISyE senior</prerequisites>
+      <semester>Fall</semester>
+      <units>4 units</units>
+      <format>In Person</format>
+      <instructor name="class 1">Mimi Wong</instructor>
+      <location room="class 1">Bruininks Hall 432</location>
+      <time class="class 1">Tuesday, 1:25PM to 4:45PM</time>
+      <start>9/3/2019</start>
+      <end>12/11/2019</end>
+    </course>
+</inventory>

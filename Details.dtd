@@ -1,0 +1,18 @@
+<!ELEMENT inventory (ISyE-courses)>
+<!ELEMENT course (title, id, description, prerequisites, semester, units, format, instructor, start, end)>
+<!ATTLIST course subject (math, physics, writing, chemistry, industrial engineering, computer sciences, economics) #REQUIRED>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT prerequisites (#PCDATA)>
+<!ELEMENT semester (#PCDATA)>
+<!ELEMENT units (#PCDATA)>
+<!ELEMENT format (#PCDATA)>
+<!ELEMENT instructor (#PCDATA)>
+<!ATTLIST instructor name (class 1, class 2, class 3) #REQUIRED>
+<!ELEMENT location (#PCDATA)>
+<!ATTLIST location room (class 1, class 2, class 3) #REQUIRED>
+<!ELEMENT time (#PCDATA)>
+<!ATTLIST time class (class 1, class 2, class 3) #REQUIRED>
+<!ELEMENT start (#PCDATA)>
+<!ELEMENT end (#PCDATA)>

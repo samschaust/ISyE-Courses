@@ -11,14 +11,14 @@
       <semester>Fall</semester>
       <units>4 units</units>
       <format>In person</format>
-      <instructor name="class 1">Zhilin Luo</instructor>
-      <instructor name="class 2">Jie Min</instructor>
-      <instructor name="class 3">Wuzhe Xu</instructor>
+      <instructor name="class 1">Prof. Zhilin Luo</instructor>
+      <instructor name="class 2">Prof. Jie Min</instructor>
+      <instructor name="class 3">Prof. Wuzhe Xu</instructor>
       <location room="class 1">Tate Hall 120</location>
       <location room="class 2">Appleby Hall 302</location>
-      <location room="class 2">Vincent Hall 2</location>
+      <location room="class 3">Vincent Hall 2</location>
       <time class="class 1">Tuesday, 9:05AM to 9:55AM and Thursday, 9:05AM to 11AM</time>
-      <time class="class 1">Tuesday, 11:15AM to 12:05PM and Thursday, 11:15AM to 1:10PM</time>
+      <time class="class 2">Tuesday, 11:15AM to 12:05PM and Thursday, 11:15AM to 1:10PM</time>
       <start>9/3/2019</start>
       <end>12/11/2019</end>
     </course>
@@ -31,9 +31,9 @@
       <semester>Fall</semester>
       <units>4 units</units>
       <format>In Person</format>
-      <instructor name="class 1">Lis Stolik Valor</instructor>
-      <instructor name="class 2">Elliot Bell</instructor>
-      <instructor name="class 3">Yu Xu</instructor>
+      <instructor name="class 1">Prof. Lis Stolik Valor</instructor>
+      <instructor name="class 2">Prof. Elliot Bell</instructor>
+      <instructor name="class 3">Prof. Yu Xu</instructor>
       <location room="class 1">Tate Hall B63</location>
       <location room="class 2">Tate Hall B26</location>
       <location room="class 3">Tate Hall B26</location>
@@ -52,9 +52,9 @@
       <semester>Fall</semester>
       <units>4 units</units>
       <format>In Person</format>
-      <instructor name="class 1">Sarah Selz</instructor>
-      <instructor name="class 2">Sarah Selz</instructor>
-      <instructor name="class 3">Nicole Montanta</instructor>
+      <instructor name="class 1">Prof. Sarah Selz</instructor>
+      <instructor name="class 2">Prof. Sarah Selz</instructor>
+      <instructor name="class 3">Prof. Nicole Montanta</instructor>
       <location room="class 1">Vincent Hall 301</location>
       <location room="class 2">Vincent Hall 364</location>
       <location room="class 3">Vruininks Hall 119</location>
@@ -73,9 +73,9 @@
       <semester>Spring</semester>
       <units>4 units</units>
       <format>In Person</format>
-      <instructor name="class 1">Olivia Cannon</instructor>
-      <instructor name="class 2">Wei Wang</instructor>
-      <instructor name="class 3">Olivia Cannon</instructor>
+      <instructor name="class 1">Prof. Olivia Cannon</instructor>
+      <instructor name="class 2">Prof. Wei Wang</instructor>
+      <instructor name="class 3">Prof. Olivia Cannon</instructor>
       <location room="class 1">Tate Hall 120</location>
       <location room="class 2">Lind Hall 229</location>
       <location room="class 3">Vincent Hall 20</location>
@@ -94,9 +94,9 @@
       <semester>Spring</semester>
       <units>4 units</units>
       <format>in Person</format>
-      <instructor name="class 1">Paul Haines</instructor>
-      <instructor name="class 2">Marvin Marshak</instructor>
-      <instructor name="class 3">Clement Pryke</instructor>
+      <instructor name="class 1">Prof. Paul Haines</instructor>
+      <instructor name="class 2">Prof. Marvin Marshak</instructor>
+      <instructor name="class 3">Prof. Clement Pryke</instructor>
       <location room="class 1">Tate Hall B50</location>
       <location room="class 2">Tate Hall B50</location>
       <location room="class 3">Tate Hall B50</location>
@@ -115,9 +115,9 @@
       <semester>Spring</semester>
       <units>3 units</units>
       <format>In Person</format>
-      <instructor name="class 1">Debra Salmon</instructor>
-      <instructor name="class 2">Doreen Leopold</instructor>
-      <instructor name="class 3">Doreen Leopold</instructor>
+      <instructor name="class 1">Prof. Debra Salmon</instructor>
+      <instructor name="class 2">Prof. Doreen Leopold</instructor>
+      <instructor name="class 3">Prof. Doreen Leopold</instructor>
       <location room="class 1">Smith Hall 100</location>
       <location room="class 2">Smith Hall 100</location>
       <location room="class 3">Smith Hall 100</location>
@@ -136,9 +136,9 @@
       <semester>Spring</semester>
       <units>1 unit</units>
       <format>In Person</format>
-      <instructor name="class 1">Michelle Driessen</instructor>
-      <instructor name="class 2">Michelle Driessen</instructor>
-      <instructor name="class 3">Michelle Driessen</instructor>
+      <instructor name="class 1">Prof. Michelle Driessen</instructor>
+      <instructor name="class 2">Prof. Michelle Driessen</instructor>
+      <instructor name="class 3">Prof. Michelle Driessen</instructor>
       <location room="class 1">Smith Hall 110</location>
       <location room="class 2">Smith Hall 110</location>
       <location room="class 3">Smith Hall 110</location>
@@ -157,9 +157,9 @@
       <semester>Fall</semester>
       <units>4 units</units>
       <format>In Person</format>
-      <instructor name="class 1">Paul Carter</instructor>
-      <instructor name="class 2">Cheng Chen</instructor>
-      <instructor name="class 3">Peihang Wu</instructor>
+      <instructor name="class 1">Prof. Paul Carter</instructor>
+      <instructor name="class 2">Prof. Cheng Chen</instructor>
+      <instructor name="class 3">Prof. Peihang Wu</instructor>
       <location room="class 1">Fraser Hall 101</location>
       <location room="class 2">Vincent Hall 2</location>
       <location room="class 3">Vincent Hall 20</location>
@@ -178,7 +178,7 @@
       <semester>Fall</semester>
       <units>4 units</units>
       <format>In Person</format>
-      <instructor name="class 1">Darin England</instructor>
+      <instructor name="class 1">Prof. Darin England</instructor>
       <location room="class 1">Smith Hall 100</location>
       <time class="class 1">Tuesday, Thursday, 2:30PM to 4:25PM</time>
       <start>9/3/2019</start>
@@ -193,7 +193,7 @@
       <semester>Fall</semester>
       <units>4 units</units>
       <format>In Person</format>
-      <instructor name="class 1">Lisa Miller</instructor>
+      <instructor name="class 1">Prof. Lisa Miller</instructor>
       <location room="class 1">Smith Hall 331</location>
       <time class="class 1">Monday, Wednesday, 1:25PM to 3:20PM</time>
       <start>9/3/2019</start>
@@ -208,9 +208,9 @@
       <semester>Fall</semester>
       <units>4 units</units>
       <format>In Person</format>
-      <instructor name="class 1">Nathan Taylor</instructor>
-      <instructor name="class 2">Nathan Taylor</instructor>
-      <instructor name="class 3">Lana Yarosh</instructor>
+      <instructor name="class 1">Prof. Nathan Taylor</instructor>
+      <instructor name="class 2">Prof. Nathan Taylor</instructor>
+      <instructor name="class 3">Prof. Lana Yarosh</instructor>
       <location room="class 1">Molecular Cellular Biology 3-120</location>
       <location room="class 2">Keller Hall 3-120</location>
       <location room="class 3">Fraser Hall 102</location>
@@ -229,9 +229,9 @@
       <semester>Spring</semester>
       <units>4 units</units>
       <format>In Person</format>
-      <instructor name="class 1">Terrence Stanley</instructor>
-      <instructor name="class 2">Greg Anderson</instructor>
-      <instructor name="class 3">Greg Anderson</instructor>
+      <instructor name="class 1">Prof. Terrence Stanley</instructor>
+      <instructor name="class 2">Prof. Greg Anderson</instructor>
+      <instructor name="class 3">Prof. Greg Anderson</instructor>
       <location room="class 1">Anderson Hall 370</location>
       <location room="class 2">Tate Hall 101</location>
       <location room="class 3">Fraser Hall 102</location>
@@ -250,8 +250,8 @@
       <semester>Spring</semester>
       <units>4 units</units>
       <format>In Person</format>
-      <instructor name="class 1">Lisa Miller</instructor>
-      <instructor name="class 2">Lisa Miller</instructor>
+      <instructor name="class 1">Prof. Lisa Miller</instructor>
+      <instructor name="class 2">Prof. Lisa Miller</instructor>
       <location room="class 1">Keller Hall 3-230</location>
       <location room="class 2">Smith Hall 331</location>
       <time class="class 1">Tuesday, Thursday, 9:05AM to 11:00AM</time>
@@ -289,7 +289,7 @@
       <semester>Fall</semester>
       <units>4 units</units>
       <format>In Person</format>
-      <instructor name="class 1">Jean-Philippe Richard</instructor>
+      <instructor name="class 1">Prof. Jean-Philippe Richard</instructor>
       <location room="class 1">Keller Hall 3-230</location>
       <time class="class 1">Monday, Wednesday, 10:10AM to 12:05PM</time>
       <start>9/3/2019</start>
@@ -304,7 +304,7 @@
       <semester>Spring</semester>
       <units>4</units>
       <format>In Person</format>
-      <instructor name="class 1">Yiling Zhang</instructor>
+      <instructor name="class 1">Prof. Yiling Zhang</instructor>
       <location room="class 1">Keller Hall 3-230</location>
       <time class="class 1">Monday, Wednesday, 1:25PM to 3:20PM</time>
       <start>1/21/2020</start>
@@ -319,7 +319,7 @@
       <semester>Spring</semester>
       <units>4 units</units>
       <format>In Person</format>
-      <instructor name="class 1">Darin England</instructor>
+      <instructor name="class 1">Prof. Darin England</instructor>
       <location room="class 1">Bruininks Hall 412</location>
       <time class="class 1">Tuesday, Thursday, 10:10AM to 12:05PM</time>
       <start>1/21/2020</start>
@@ -334,7 +334,7 @@
       <semester>Spring</semester>
       <units>4 units</units>
       <format>In Person</format>
-      <instructor name="class 1">Krishnamurthy Iyer</instructor>
+      <instructor name="class 1">Prof. Krishnamurthy Iyer</instructor>
       <location room="class 1">Keller Hall 3-230</location>
       <time class="class 1">Monday, Wednesday, 9:05AM to 11:00AM</time>
       <start>1/21/2020</start>
@@ -349,7 +349,7 @@
       <semester>Spring</semester>
       <units>4 units</units>
       <format>In Person</format>
-      <instructor name="class 1">Zhaosong Lu</instructor>
+      <instructor name="class 1">Prof. Zhaosong Lu</instructor>
       <location room="class 1">Keller Hall 3-230</location>
       <time class="class 1">Tuesday, Thursday, 1:25PM to 3:20PM</time>
       <start>1/21/2020</start>
@@ -364,7 +364,7 @@
       <semester>Fall</semester>
       <units>4 units</units>
       <format>In Person</format>
-      <instructor name="class 1">Darin England</instructor>
+      <instructor name="class 1">Prof. Darin England</instructor>
       <location room="class 1">Mechanical Engineering 18</location>
       <time class="class 1">Monday, Wednesday, 1:25PM to 3:20PM</time>
       <start>9/3/2019</start>
@@ -379,7 +379,7 @@
       <semester>Fall</semester>
       <units>4 units</units>
       <format>In Person</format>
-      <instructor name="class 1">Mimi Wong</instructor>
+      <instructor name="class 1">Adujunct Faculty Mimi Wong</instructor>
       <location room="class 1">Bruininks Hall 432</location>
       <time class="class 1">Tuesday, 1:25PM to 4:45PM</time>
       <start>9/3/2019</start>
